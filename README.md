@@ -4,9 +4,13 @@
 
 Controls
 Key	Action
+
 Arrow Keys	Move
+
 Space	Jump
+
 Down Arrow	Roll
+
 F	Fullscreen
 
 # Screenshot
